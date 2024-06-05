@@ -9,10 +9,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider: ^6.0.0
+  animated_splash_screen:
+  http: ^1.1.0
+  shared_preferences: ^2.0.13  # Add this line
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  intl: ^0.18.1
   flutter_lints: ^2.0.2
 
 flutter:
