@@ -22,13 +22,3 @@ Welcome to the Task Manager App, a simple yet effective tool to help you manage 
 ## Responsive UI
 The Task Manager App is designed to provide a seamless experience on both portrait and landscape orientations. The UI components adjust automatically to ensure an optimal layout regardless of the device's orientation.
 
-## Contributing
-Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-For any inquiries or issues, please contact [your-email@example.com](mailto:your-email@example.com).
-
-Thank you for using the Task Manager App!
